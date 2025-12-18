@@ -1,7 +1,9 @@
 ```markdown
 # Bela Blok
 
-**Bela Blok** is a simple, intuitive, and user-friendly digital scorepad for Belot players. Like the traditional scorepad used in real-life Belot games, it allows players to easily record, update, calculate, and track points, keeping gameplay smooth, organized, accurate, and enjoyable for casual or competitive sessions with friends.
+**Bela Blok** is a simple, intuitive, and user-friendly digital scorepad for Belot players. Like the traditional
+scorepad used in real-life Belot games, it allows players to easily record, update, calculate, and track points,
+keeping gameplay smooth, organized, accurate, and enjoyable for casual or competitive sessions with friends.
 
 ---
 
