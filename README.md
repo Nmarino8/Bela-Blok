@@ -40,19 +40,7 @@ or competitive sessions with friends.
 ---
 
 ## Screenshots
-*(All screenshots are in the `screenshots/` folder)*
-
-### Home Screen
-<img src="screenshots/screenshot_1.png" alt="Home Screen" width="400"/>
-
-### Adding Points
-<img src="screenshots/screenshot_2.png" alt="Adding Points" width="400"/>
-
-### In-Game View
-<img src="screenshots/screenshot_3.png" alt="In-Game View" width="400"/>
-
-### Settings
-<img src="screenshots/screenshot_4.png" alt="Settings" width="400"/>
+All app screenshots are available in the `screenshots/` folder in this repository.
 
 ---
 
