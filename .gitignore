@@ -1,0 +1,9 @@
+DerivedData/
+build/
+*.xcworkspace
+*.xcuserstate
+*.DS_Store
+*.swp
+*.pbxuser
+status.xcodeproj
+*.xcuserdata
