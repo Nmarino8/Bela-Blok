@@ -43,16 +43,16 @@ or competitive sessions with friends.
 *(All screenshots are in the `screenshots/` folder)*
 
 ### Home Screen
-![Home Screen](screenshots/screenshot_1.png)
+<img src="screenshots/screenshot_1.png" alt="Home Screen" width="400"/>
 
 ### Adding Points
-![Adding Points](screenshots/screenshot_2.png)
+<img src="screenshots/screenshot_2.png" alt="Adding Points" width="400"/>
 
 ### In-Game View
-![In-Game View](screenshots/screenshot_3.png)
+<img src="screenshots/screenshot_3.png" alt="In-Game View" width="400"/>
 
 ### Settings
-![Settings](screenshots/screenshot_4.png)
+<img src="screenshots/screenshot_4.png" alt="Settings" width="400"/>
 
 ---
 
