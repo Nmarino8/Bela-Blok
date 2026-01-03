@@ -102,15 +102,14 @@ Added:
 
 ## Contributing
 
-This project is primarily for **viewing and learning purposes**. Contributions in the form of:
+This project is intended primarily for educational and reference purposes. Contributions are welcome in the form of:
+	•	Suggestions for enhancements
+	•	Ideas for improvements
+	•	Bug reports or issue identification
 
-- Suggestions  
-- Ideas for improvements  
-- Bug reports  
+Please note: You **may not** use this code to **create** derivative applications, **redistribute**, or **modify** it for commercial purposes without **proper attribution to the original author**.
 
-are welcome and appreciated.  
-
-**Important:** You **cannot** use this code to create your own app, redistribute, or modify it for commercial purposes **without proper attribution** to the original author.
+We appreciate your interest and contributions in helping improve this project.
 
 ---
 
