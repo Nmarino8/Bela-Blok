@@ -103,9 +103,9 @@ Added:
 ## Contributing
 
 This project is intended primarily for educational and reference purposes. Contributions are welcome in the form of:
-	•	Suggestions for enhancements
-	•	Ideas for improvements
-	•	Bug reports or issue identification
+- Suggestions for enhancements
+- Ideas for improvements
+- Bug reports or issue identification
 
 Please note: You **may not** use this code to **create** derivative applications, **redistribute**, or **modify** it for commercial purposes without **proper attribution to the original author**.
 
@@ -115,18 +115,20 @@ We appreciate your interest and contributions in helping improve this project.
 
 ## License
 
-**All rights reserved.**  
+All rights reserved.
 
-You may:
+This project may be used under the following conditions:
 
-- View the code  
-- Learn from it  
-- Use it for personal, non-commercial purposes  
+Permitted:
+- Viewing and studying the code
+- Learning from the implementation
+- Using it for personal, educational, or non-commercial purposes
 
-You may **not**:
+Prohibited:
+- Copying, modifying, or redistributing the code to create derivative applications
+- Selling or commercially distributing the application or its code
+- Using this project without proper attribution to the original author: Niko Marinović (https://github.com/Nmarino8￼)
 
-- Copy or modify the code to create your own application  
-- Sell or commercially distribute this app or its code  
-- Use this project in any way without properly mentioning the original author: **Niko Marinović** ([https://github.com/Nmarino8](https://github.com/Nmarino8))
+**By using this project, you agree to respect these terms.**
 
 ---
